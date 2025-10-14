@@ -1,7 +1,9 @@
 
 <h1 align="center"><b>Hola, Soy Hans Contreras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<br>
+
+
+<h1 align="justified">
 
 De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización y experiencia enfocada en la transformación digital y la mejora continua mediante el Análisis de Datos y la Automatización de Procesos.
 
@@ -17,6 +19,7 @@ Me considero un profesional que busca estar actualizado en su formación, con or
 
 Busco aportar valor con mis habilidades analíticas, de automatización y de gestión de proyectos en organizaciones dinámicas que valoren la innovación tecnológica y la eficiencia operativa.
 
+</h1>
 
 <br>
 
