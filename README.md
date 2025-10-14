@@ -18,7 +18,7 @@ Me considero un profesional que busca estar actualizado en su formación, con or
 Busco aportar valor con mis habilidades analíticas, de automatización y de gestión de proyectos en organizaciones dinámicas que valoren la innovación tecnológica y la eficiencia operativa.
 
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
