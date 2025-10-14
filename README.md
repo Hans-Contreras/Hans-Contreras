@@ -8,9 +8,9 @@ De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización
 
 Mi experiencia se centra en la aplicación estratégica de herramientas de Business Intelligence para generar eficiencias tangibles, destacando:
 
-Análisis de datos y Reportabilidad: Poseo capacitación especializada en Power BI para el análisis de grandes volúmenes de datos, una habilidad crucial desarrollada durante mi rol como Consultor de servicios tecnológicos a la minería. Mi foco es convertir datos complejos en cuadros de mando y dashboards accionables para la toma de decisiones.
+Análisis de datos y Reportabilidad: Uso de Power BI para el análisis de grandes volúmenes de datos y la elaboración de informes, una habilidad crucial desarrollada durante mi rol como Consultor de servicios tecnológicos a la minería. Mi foco es convertir datos complejos en cuadros de mando y dashboards accionables para la toma de decisiones.
 
-Automatización de Procesos y Gestión de Calidad: Como Asesor de Calidad en la Universidad de Antofagasta, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, admeás de otras actividades.
+Automatización de Procesos y Gestión de Calidad: Como Asesor de Calidad en la Universidad de Antofagasta, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, además de otros procesos relacionados.
 
 Base Técnica en Datos y Proyectos: Mi perfil se complementa con especializaciones en Ingeniería de Datos, Análisis de Datos y Gestión de proyectos con metodologías ágiles, asegurando la habilidad para diseñar arquitecturas de datos y aplicar técnicas avanzadas para la optimización de procesos y proyectos.
 
