@@ -46,8 +46,7 @@ Busco aportar valor con mis habilidades analíticas, de automatización y de ges
     [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
     [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
     [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-    [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-
+    
 <br>   
     
 - **Desarrollo Front-End**:
