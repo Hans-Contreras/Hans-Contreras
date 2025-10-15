@@ -96,8 +96,10 @@ Busco aportar valor con mis habilidades analíticas, de automatización y de ges
     [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
     [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
     [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+
+  
 <br>
-</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <h2 align="center"><b>Contacto 🤝</b></h2>
