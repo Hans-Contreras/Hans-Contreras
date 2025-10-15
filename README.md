@@ -115,8 +115,6 @@ Busco aportar valor con mis habilidades analíticas, de automatización y de ges
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<br>
-
 Credit: [Hans Contreras Robledo](https://github.com/Hans-Contreras)
 
 Last Edited on: 14/10/2025
