@@ -10,7 +10,7 @@ Mi experiencia se centra en la aplicación estratégica de herramientas de Busin
 
 Análisis de datos y Reportabilidad: Uso de Power BI para el análisis de grandes volúmenes de datos y la elaboración de informes, una habilidad desarrollada durante mi rol como Consultor de servicios tecnológicos a la minería. Mi foco es convertir datos complejos en cuadros de mando y dashboards accionables para la toma de decisiones.
 
-Automatización de Procesos y Gestión de Calidad: Como Asesor de Calidad en la Universidad de Antofagasta, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, además de otros procesos relacionados.
+Automatización de Procesos y Gestión de Calidad: Como Asesor de Calidad en Instituciones de Educación Superior, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, además de otros procesos relacionados.
 
 Base Técnica en Datos y Proyectos: Mi perfil se complementa con especializaciones en Ingeniería de Datos, Análisis de Datos y Gestión de proyectos con metodologías ágiles, asegurando la habilidad para diseñar arquitecturas de datos y aplicar técnicas avanzadas para la optimización de procesos y proyectos.
 
