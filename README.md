@@ -4,9 +4,9 @@
 
 <div align="justify"> 
     
-De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización y experiencia enfocada en la transformación digital y la mejora continua mediante el Análisis de Datos y la Automatización de Procesos.
+De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización y experiencia enfocada en transformación digital y mejora continua mediante Análisis de Datos y Automatización de Procesos.
 
-Mi experiencia se centra en la aplicación estratégica de herramientas de Business Intelligence para generar eficiencias tangibles, destacando:
+Mi experiencia se centra en la aplicación estratégica de herramientas, destacando:
 
 Análisis de datos y Reportabilidad: Uso de Power BI para el análisis de grandes volúmenes de datos y la elaboración de informes, una habilidad desarrollada durante mi rol como Consultor de servicios tecnológicos a la minería. Mi foco es convertir datos complejos en cuadros de mando y dashboards accionables para la toma de decisiones.
 
