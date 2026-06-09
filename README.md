@@ -4,15 +4,15 @@
 
 <div align="justify"> 
     
-De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización y experiencia enfocada en transformación digital y mejora continua mediante Análisis de Datos y Automatización de Procesos.
+De profesión Ingeniero Civil Industrial y en Minas, cuento con especialización y experiencia enfocada en transformación digital y mejora continua mediante análisis de datos y automatización de procesos.
 
 Mi experiencia se centra en la aplicación estratégica de herramientas, destacando:
 
 Análisis de datos y Reportabilidad: Uso de Power BI para el análisis de grandes volúmenes de datos y la elaboración de informes, una habilidad desarrollada durante mi rol como Consultor de servicios tecnológicos a la minería. Mi foco es convertir datos complejos en cuadros de mando y dashboards accionables para la toma de decisiones.
 
-Automatización de Procesos y Gestión de Calidad: Como Asesor de Calidad en Instituciones de Educación Superior, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, además de otros procesos relacionados.
+Automatización de Procesos y Gestión de Calidad: Como asesor de calidad en instituciones de educación superior, he implementado flujos de trabajo con Power Automate para automatizar procesos y tareas, optimizando la gestión de sistemas, la reportabilidad y la eficiencia en la acreditación de programas de postgrado, además de otros procesos relacionados.
 
-Base Técnica en Datos y Proyectos: Mi perfil se complementa con especializaciones en Ingeniería de Datos, Análisis de Datos y Gestión de proyectos con metodologías ágiles, asegurando la habilidad para diseñar arquitecturas de datos y aplicar técnicas avanzadas para la optimización de procesos y proyectos.
+Base Técnica en Datos y Proyectos: Mi perfil se complementa con especializaciones en ingeniería de datos, análisis de datos y gestión de proyectos con metodologías ágiles, asegurando la habilidad para diseñar arquitecturas de datos y aplicar técnicas avanzadas para la optimización de procesos y proyectos.
 
 Me considero un profesional que busca estar actualizado en su formación, con orientación al aprendizaje continuo, autodidacta, creativo y capaz de desempeñarme en equipos de trabajo multidisciplinarios.
 
